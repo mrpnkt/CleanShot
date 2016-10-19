@@ -1,7 +1,9 @@
 # CleanShot
 Bookmarklet which removes user-information on Facebook and Twitter
 
-[CleanShot](https://mrpnkt.com/CleanShot.html)
+[Bookmarklet](https://mrpnkt.com/CleanShot.html)
+
+**Source:**
 
 ```javascript
 

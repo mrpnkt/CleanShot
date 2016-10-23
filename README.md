@@ -1,5 +1,5 @@
 # CleanShot
-Removes user-information on Facebook and Twitter
+Removes user-information on Facebook, Twitter and Youtube
 
 * [Bookmarklet](https://mrpnkt.com/CleanShot.html)
 * [Create Bookmarklet](http://mrcoles.com/bookmarklet/)
